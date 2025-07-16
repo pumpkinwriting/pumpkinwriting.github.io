@@ -176,14 +176,14 @@ section {
     display: flex;
 }
 
-.shop-button {
+button {
     width: 100px;
     height: 40px;
     margin: 10px 10px 0 0;
     background-color: white;
     border-width: 1px;
     border-radius: 10px;
-    -webkit-appearance: none;
+    border-color: black;
 }
 
 .about-stripe {
