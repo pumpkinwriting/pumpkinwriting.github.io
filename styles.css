@@ -274,6 +274,13 @@ h5 {
     margin: 0 0 0 50px
 }
 
+hr {
+    background-color: antiquewhite;
+    height: 2px;
+    width: 90vw;
+    border: none;
+}
+
 #instagram { width: 50px; }
 
 footer {
